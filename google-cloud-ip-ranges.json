@@ -2230,6 +2230,18 @@
     "service": "Google Cloud",
     "scope": "us-west3"
   }, {
+    "ipv4Prefix": "35.217.64.0/18",
+    "service": "Google Cloud",
+    "scope": "us-west3"
+  }, {
+    "ipv4Prefix": "35.220.31.0/24",
+    "service": "Google Cloud",
+    "scope": "us-west3"
+  }, {
+    "ipv4Prefix": "35.242.31.0/24",
+    "service": "Google Cloud",
+    "scope": "us-west3"
+  }, {
     "ipv6Prefix": "2600:1900:4170::/44",
     "service": "Google Cloud",
     "scope": "us-west3"
